@@ -38,7 +38,7 @@
     "license": "MIT",
     "dependencies": {
         "@actions/core": "^2.0.1",
-        "@lets-release/calver": "^3.0.0"
+        "@lets-release/calver": "^4.0.0"
     },
     "devDependencies": {
         "@eslint/compat": "^2.0.0",
